@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **C++, C**
+- 💬 Ask me about **C++, C, Python, Django**
 
 - 📫 How to reach me **abrarzaved2002@gmail.com**
 
