@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++, C, Python, Django**
 
-- 📫 How to reach me **abrarzaved2002@gmail.com**
+- 📫 How to reach me <strong>Abrar Javed Sorafi</strong> at <a href="mailto:abrarzaved2002@gmail.com">AbrarZaved</a>
 
 - ⚡ Fun fact **I am optimist**
 
